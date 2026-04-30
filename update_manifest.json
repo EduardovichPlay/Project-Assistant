@@ -1,0 +1,16 @@
+{
+  "app_name": "Project Assistant",
+  "latest_version": "0.2.3",
+  "channel": "stable",
+  "release_date": "2026-04-30",
+  "download_url": "",
+  "release_url": "",
+  "sha256": "",
+  "mandatory": false,
+  "changelog": [
+    "Добавлен пункт проверки обновлений",
+    "Добавлена проверка версии через JSON-манифест",
+    "Добавлено скачивание обновления в папку updates",
+    "Добавлена подготовка к проверке SHA256"
+  ]
+}
