@@ -3,9 +3,9 @@
   "latest_version": "0.2.3",
   "channel": "stable",
   "release_date": "2026-04-30",
-  "download_url": "",
-  "release_url": "",
-  "sha256": "",
+  "download_url": "https://github.com/eduardovichplay/Project-Assistant/releases/download/v0.2.3/Versio_0.2.3_update_check.zip",
+  "release_url": "https://github.com/eduardovichplay/Project-Assistant/releases/tag/v0.2.3",
+  "sha256": "04101142fa89e7be7b16ac6302683f732d47f76ae0eac1c0d4493ace169ede31",
   "mandatory": false,
   "changelog": [
     "Добавлен пункт проверки обновлений",
