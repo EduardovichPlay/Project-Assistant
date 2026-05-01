@@ -1,18 +1,17 @@
 {
   "app_name": "Project Assistant",
-  "latest_version": "0.3.0",
+  "latest_version": "0.4.0",
   "channel": "stable",
   "release_date": "2026-05-01",
-  "download_url": "https://github.com/eduardovichplay/Project-Assistant/releases/download/v0.3.0/Versio_0.3.0_safe_updater.zip",
-  "release_url": "https://github.com/eduardovichplay/Project-Assistant/releases/tag/v0.3.0",
-  "sha256": "fb1ffa02fd7c5e239f9da183bd32ec062ed761a252aa6200baa02170d95b64fc",
+  "download_url": "https://github.com/eduardovichplay/Project-Assistant/releases/download/v0.4.0/ProjectAssistant_0.4.0_workspace_core.zip",
+  "release_url": "https://github.com/eduardovichplay/Project-Assistant/releases/tag/v0.4.0",
+  "sha256": "6095e32b4576ac641ff3cb5e55f9e7b6c5e8ed8659a3dff285f44c07f04042cb",
   "mandatory": false,
   "changelog": [
-    "Добавлен отдельный updater-процесс",
-    "Добавлена установка скачанного ZIP через пункт I",
-    "Добавлено резервное копирование перед обновлением",
-    "Добавлена защита от опасных путей внутри ZIP",
-    "Локальный projecthelper_update.json сохраняется при обновлении",
-    "Добавлен build_updater_exe.bat для сборки updater.exe"
+    "Единое имя Project Assistant во всех экранах и отчётах",
+    "Добавлена история последних проектов",
+    "Добавлен выбор папки проекта через меню",
+    "Улучшен анализ импортов, локальных модулей и зависимостей",
+    "Усилены Markdown/JSON/HTML-отчёты"
   ]
 }
