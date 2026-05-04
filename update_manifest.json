@@ -1,17 +1,17 @@
 {
   "app_name": "Project Assistant",
-  "latest_version": "0.4.0",
+  "latest_version": "0.4.4",
   "channel": "stable",
-  "release_date": "2026-05-01",
-  "download_url": "https://github.com/eduardovichplay/Project-Assistant/releases/download/v0.4.0/ProjectAssistant_0.4.0_workspace_core.zip",
-  "release_url": "https://github.com/eduardovichplay/Project-Assistant/releases/tag/v0.4.0",
-  "sha256": "6095e32b4576ac641ff3cb5e55f9e7b6c5e8ed8659a3dff285f44c07f04042cb",
+  "release_date": "2026-05-04",
+  "download_url": "https://github.com/eduardovichplay/Project-Assistant/releases/download/v0.4.4/ProjectAssistant_0.4.4_github_telegram_audit.zip",
+  "release_url": "https://github.com/eduardovichplay/Project-Assistant/releases/tag/v0.4.4",
+  "sha256": "aa3f2e5201f028668192c1a3704a97b5bcea55c24de6764630ea6aeeb7f4cc16",
   "mandatory": false,
   "changelog": [
-    "Единое имя Project Assistant во всех экранах и отчётах",
-    "Добавлена история последних проектов",
-    "Добавлен выбор папки проекта через меню",
-    "Улучшен анализ импортов, локальных модулей и зависимостей",
-    "Усилены Markdown/JSON/HTML-отчёты"
+    "Добавлен GitHub-аудит перед публикацией",
+    "Усилен Telegram Bot профиль",
+    "Добавлены CLI-флаги --github-audit и --profile telegram",
+    "Добавлена проверка .gitignore, .env, крупных файлов и мусорных папок",
+    "Добавлена проверка BOT_TOKEN, ADMIN_ID, handlers, keyboards, database и async-рисков"
   ]
 }
